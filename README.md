@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🌱 Aprendendo C# .NET
 - 😄 Pronomes: Ele/Dele
 - ⚡ Amo música e carros!
-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurilloNFaria&hide=contribs,prs&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurilloNFaria&hide=contribs,prs&show_icons=true&theme=radical)
 
 <div> 
   <a href="https://instagram.com/murillxnf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
