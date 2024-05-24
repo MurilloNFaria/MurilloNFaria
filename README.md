@@ -5,6 +5,8 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Amo música e carros!
 
+##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurilloNFaria&hide=contribs,prs&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
