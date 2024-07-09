@@ -1,7 +1,7 @@
 ## Eai! Meu nome é Murillo Faria. 👋
 
 - 🔭 Foco em back-end com C# e SQL.
-- 🌱 Aprendendo C# .NET
+- 🌱 Aprendendo C# ASP.NET
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Amo música, carros e jogos!
 
